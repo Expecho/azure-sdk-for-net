@@ -5,7 +5,7 @@
     <Description>Batch.Tests Class Library</Description>
     <AssemblyName>Batch.Tests</AssemblyName>
     <VersionPrefix>1.0.0-preview</VersionPrefix>
-      <!--<TreatWarningsAsErrors>true</TreatWarningsAsErrors>-->
+      <!--<TreatWarningsAsErrors>false</TreatWarningsAsErrors>-->
   </PropertyGroup>
   <PropertyGroup>
     <!--<TargetFrameworks>netcoreapp3.1</TargetFrameworks>-->

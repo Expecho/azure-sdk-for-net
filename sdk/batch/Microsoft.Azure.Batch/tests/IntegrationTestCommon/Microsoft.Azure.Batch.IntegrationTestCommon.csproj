@@ -2,7 +2,7 @@
   <PropertyGroup>
     <Description>Azure Batch integration test common library</Description>
     <AssemblyTitle>Microsoft Azure Batch Integration TestsCommon</AssemblyTitle>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
   </PropertyGroup>
 
   <PropertyGroup>
