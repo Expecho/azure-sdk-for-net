@@ -217,7 +217,12 @@
     {
       "filename": "**/sdk/batch/**/*.cs",
       "words": [
-        "cifs"
+        "cifs",
+        "ocpdate",
+        "Reimage",
+        "Reimaging",
+        "reimaging",
+        "SSDLRS"
       ]
     },
     {
@@ -1389,13 +1394,6 @@
       "filename": "**/sdk/confluent/**/*.cs",
       "words": [
         "Byok"
-      ]
-    },
-    {
-      "filename": "**/sdk/openai/**/*.cs",
-      "words": [
-        "AOAI",
-        "Rerank"
       ]
     }
   ],
