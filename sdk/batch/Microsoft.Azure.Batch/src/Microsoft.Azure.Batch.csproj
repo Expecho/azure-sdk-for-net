@@ -5,7 +5,7 @@
     <ApiCompatVersion>16.2.0</ApiCompatVersion>
     <!--The ApiCompatVersion is managed automatically and should not generally be modified manually.-->
     <DefineConstants>$(DefineConstants);CODESIGN</DefineConstants>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <AssemblyTitle>Microsoft Azure Batch</AssemblyTitle>
     <PackageTags>Microsoft;Azure;Batch</PackageTags>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>

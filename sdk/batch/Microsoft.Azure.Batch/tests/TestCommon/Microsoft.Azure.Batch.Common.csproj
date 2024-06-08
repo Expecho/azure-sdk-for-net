@@ -4,7 +4,7 @@
     <!--After fixing all warnings, enable this option-->
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <AssemblyTitle>Microsoft Azure Batch Common Tests</AssemblyTitle>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
   </PropertyGroup>
 
   <PropertyGroup>

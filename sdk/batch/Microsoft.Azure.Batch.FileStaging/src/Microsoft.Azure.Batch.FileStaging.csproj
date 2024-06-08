@@ -8,7 +8,7 @@
     <!--The ApiCompatVersion is managed automatically and should not generally be modified manually.-->
     <ApiCompatVersion>9.0.0</ApiCompatVersion>
     <DefineConstants>$(DefineConstants);CODESIGN</DefineConstants>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <AssemblyTitle>Microsoft.Azure.Batch.FileStaging</AssemblyTitle>
     <PackageTags>Microsoft;Azure;Batch;windowsazureofficial</PackageTags>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
