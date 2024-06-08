@@ -7,6 +7,7 @@
     <PackageId>Microsoft.Azure.Test.HttpRecorder</PackageId>
     <PackageTags>Microsoft AutoRest ClientRuntime HttpRecorder REST;$(CommonNugetPackageTags)</PackageTags>
     <DefaultItemExcludes>$(DefaultItemExcludes);HttpRecorder.csproj</DefaultItemExcludes>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <PackageReleaseNotes>
       <![CDATA[
         1) Accommodate Newtonsoft.Json breaking change for .NET 4.5.2 and above

@@ -6,6 +6,7 @@
     <AssemblyName>Microsoft.Rest.ClientRuntime.Azure.TestFramework</AssemblyName>
     <PackageId>Microsoft.Rest.ClientRuntime.Azure.TestFramework</PackageId>
     <PackageTags>Microsoft AutoRest ClientRuntime REST TestFramework</PackageTags>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
     <PackageReleaseNotes>
       <![CDATA[
         1) Provided Environemnt moniker was being compared case-sensitve way.
